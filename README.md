@@ -46,7 +46,8 @@ This research project presents a comprehensive study on detecting ransomware usi
 Khoury College of Computer Sciences, Roux Institute at Northeastern University
 
 ## 📖 Publication
-Presented at IEEE Conference, 2025 🏆
+Presented at IEEE CCWC, 2025 🏆
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8HuSBtEAAAAJ&citation_for_view=8HuSBtEAAAAJ:u-x6o8ySG0sC)
 
 ## 💾 Dataset
 [Ransomware Detection Dataset](https://github.com/muditmathur2020/RansomwareDetection/blob/master/RansomwareDetection.ipynb)
